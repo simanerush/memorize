@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2372849E275DCD1300A5567B /* Memorize_CS193pApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2372849D275DCD1300A5567B /* Memorize_CS193pApp.swift */; };
+		2372849E275DCD1300A5567B /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2372849D275DCD1300A5567B /* MemorizeApp.swift */; };
 		237284A0275DCD1300A5567B /* EmojiMemoryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2372849F275DCD1300A5567B /* EmojiMemoryGameView.swift */; };
 		237284A2275DCD1400A5567B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 237284A1275DCD1400A5567B /* Assets.xcassets */; };
 		237284A5275DCD1400A5567B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 237284A4275DCD1400A5567B /* Preview Assets.xcassets */; };
@@ -22,7 +22,7 @@
 
 /* Begin PBXFileReference section */
 		2372849A275DCD1300A5567B /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2372849D275DCD1300A5567B /* Memorize_CS193pApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memorize_CS193pApp.swift; sourceTree = "<group>"; };
+		2372849D275DCD1300A5567B /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
 		2372849F275DCD1300A5567B /* EmojiMemoryGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameView.swift; sourceTree = "<group>"; };
 		237284A1275DCD1400A5567B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		237284A4275DCD1400A5567B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 				239B17B4277568FE007EE208 /* Theme.swift */,
 				23C543F32790BFA40095CD01 /* ThemeChooser.swift */,
 				23C543F627912D010095CD01 /* ThemeEditor.swift */,
-				2372849D275DCD1300A5567B /* Memorize_CS193pApp.swift */,
+				2372849D275DCD1300A5567B /* MemorizeApp.swift */,
 				2372849F275DCD1300A5567B /* EmojiMemoryGameView.swift */,
 				237284A1275DCD1400A5567B /* Assets.xcassets */,
 				23C543F52790D38F0095CD01 /* Info.plist */,
@@ -175,7 +175,7 @@
 				23C543F42790BFA40095CD01 /* ThemeChooser.swift in Sources */,
 				23C543F02790BE470095CD01 /* UtilityExtensions.swift in Sources */,
 				239B17B5277568FE007EE208 /* Theme.swift in Sources */,
-				2372849E275DCD1300A5567B /* Memorize_CS193pApp.swift in Sources */,
+				2372849E275DCD1300A5567B /* MemorizeApp.swift in Sources */,
 				23E1C74527632FAA0098CBC5 /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -310,7 +310,7 @@
 				DEVELOPMENT_TEAM = 25H9B97SXR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Memorize-CS193p/Info.plist";
+				INFOPLIST_FILE = Memorize/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Memorize;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -322,7 +322,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.simanerush.Memorize-CS193p";
+				PRODUCT_BUNDLE_IDENTIFIER = com.simanerush.Memorize;
 				PRODUCT_NAME = Memorize;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -341,7 +341,7 @@
 				DEVELOPMENT_TEAM = 25H9B97SXR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Memorize-CS193p/Info.plist";
+				INFOPLIST_FILE = Memorize/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Memorize;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -353,7 +353,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.simanerush.Memorize-CS193p";
+				PRODUCT_BUNDLE_IDENTIFIER = com.simanerush.Memorize;
 				PRODUCT_NAME = Memorize;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
