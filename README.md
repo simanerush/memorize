@@ -10,7 +10,7 @@ Practice your memory with Memorize! Inspired by Stanford CS193p class.
 * Start new game easily
 * All your created themes are stored in your device's memory, so nothing goes away when you close the app
 
-![https://i.ibb.co/GWnVmhp/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-54-48-iphone12minired-portrait.png]
-![https://i.ibb.co/N3DxwHk/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-55-24-iphone12minired-portrait.png]
-![https://i.ibb.co/yQfRgw0/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-55-33-iphone12minired-portrait.png]
-![https://i.ibb.co/gd2yXNX/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-55-42-iphone12minired-portrait.png]
+![Screenshot 1](https://i.ibb.co/GWnVmhp/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-54-48-iphone12minired-portrait.png)
+![Screenshot 2](https://i.ibb.co/N3DxwHk/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-55-24-iphone12minired-portrait.png)
+![Screenshot 3](https://i.ibb.co/yQfRgw0/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-55-33-iphone12minired-portrait.png)
+![Screenshot 4](https://i.ibb.co/gd2yXNX/Simulator-Screen-Shot-i-Phone-13-mini-2022-01-14-at-19-55-42-iphone12minired-portrait.png)
